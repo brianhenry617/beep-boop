@@ -25,4 +25,4 @@ This website allows users to translate plain English to Beep Boop.
 
 ### License
 Copyright (c) 2018 Brian Henry.
-This software is licensed under the GLT license.
+This software is licensed under the GNU GENERAL PUBLIC LICENSE.
