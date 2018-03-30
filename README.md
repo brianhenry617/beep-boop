@@ -18,10 +18,14 @@ This website allows users to translate plain English to Beep Boop.
 * Bootstrap
 * jQuery
 
+## Known Bugs
+* _No Known Bugs_
+
 ## Specs
 * _Numbers that contain a 0 are replaced (all digits) with "Beep!"_
 * _Numbers that contain a 1 are replaced (all digits) with "Boop!"_
 * _Numbers divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do that."_
+* _Every other thing pops up as it self_
 
 ### License
 Copyright (c) 2018 Brian Henry.
