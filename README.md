@@ -19,9 +19,9 @@ This website allows users to translate plain English to Beep Boop.
 * jQuery
 
 ## Specs
-* _Takes 0 and turns to beep_
-* _Takes 1 and turns to boop_
-* _Takes numbers divisible by 3 and returns to tell them it doesnt understand_
+* _Numbers that contain a 0 are replaced (all digits) with "Beep!"_
+* _Numbers that contain a 1 are replaced (all digits) with "Boop!"_
+* _Numbers divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do that."_
 
 ### License
 Copyright (c) 2018 Brian Henry.
