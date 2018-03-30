@@ -5,6 +5,11 @@ $(document).ready(function() {
     var english = $("input#numbers").val();
     var result = "";
     var num = parseInt(english);
+    if (isNaN(num)) {
+      alert("I'm sorry, Dave. I'm afraid I can't do that.");
+      return;
+    }
+    result = NaN
     if (num %3==0) {
       result = "I'm sorry, Dave. I'm afraid I can't do that.";
     }else if (english.search("1") != -1) {
